@@ -1,3 +1,9 @@
-import '../../script/test'
+// import { Hello } from '../../script/test'
 
-console.log('container')
+// // import MyName from '../../script/test'
+
+// // import '../../script/test'
+
+// console.log('container')
+// Hello()
+// // console.log(MyName)
